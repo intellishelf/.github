@@ -1,5 +1,5 @@
 ## Hi there 👋
-Here we develop intellishelf
+Here we develop https://intellishelf.online
 
 # Docs
 https://theintellishelf.atlassian.net/wiki/spaces/intellishe
