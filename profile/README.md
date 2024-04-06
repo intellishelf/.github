@@ -1,5 +1,4 @@
-## Hi there 👋
-Here we develop https://intellishelf.online
+## https://intellishelf.online
 
 # Docs
 https://theintellishelf.atlassian.net/wiki/spaces/intellishe
